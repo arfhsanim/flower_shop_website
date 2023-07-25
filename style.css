@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  padding-bottom: 50px;
+  background-color: #fbeef1;
+}
+.banner {
+  display: flex;
+}
+
+.banner-text {
+  padding-top: 100px;
+  margin-left: 50px;
+  width: 40%;
+  margin-right: 100px;
+}
+.banner-text h2 {
+  letter-spacing: 5px;
+  font-weight: bold;
+  font-size: 25px;
+}
+#btn {
+  width: 100px;
+  height: 35px;
+  border: none;
+  color: rgb(255, 255, 255);
+  border-radius: 8%;
+  font-weight: bold;
+  background-color: #e55473;
+  cursor: pointer;
+}
+.flower {
+  height: 600px;
+  width: 300px;
+}
+.image img {
+  height: 250px;
+  width: 200px;
+  margin-top: 20px;
+
+  margin-left: 50px;
+}
+.offer {
+  margin-top: 50px;
+  background-color: #fdf6f8;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  display: flex;
+}
+.offer1 {
+  margin-top: 50px;
+  background-color: #f0eced;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+  justify-content: center;
+}
+figcaption {
+  margin-right: 50px;
+  text-align: center;
+  font-size: small;
+}
+
+.offer-text {
+  text-align: center;
+  margin-top: 35px;
+  margin-left: 50px;
+  width: 50%;
+}
+.offer img {
+  height: 250px;
+  width: 200px;
+}
+.offer-text > h2 {
+  margin-top: 20px;
+}
+#btn1 {
+  width: 100px;
+  height: 35px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  background-color: #e55473;
+  cursor: pointer;
+  margin-top: 5px;
+  border: none;
+  border-radius: 8%;
+}
+.blog{
+    text-align: center;
+    margin-top: 50px;
+}
+.offer2 {
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    
+  }
+
+
+  .container1 {
+    position: relative;
+    display: inline-block;
+  }
+
+  .search-bar1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 250px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+    font-size: 16px;
+    border: none;
+  color: rgb(255, 255, 255);
+  border-radius: 8%;
+  font-weight: bold;
+  background-color: #ffffff;
+  cursor: pointer;
+  }
+
+  .search-button1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(150%, -50%);
+    width: 120px; 
+    height: 40px; 
+    font-size: 16px;
+    border: none;
+  color: rgb(255, 255, 255);
+  border-radius: 8%;
+  font-weight: bold;
+  background-color: #e55473;
+  cursor: pointer;
+
+  }
+  
+
+
+
+
+.footer-content {
+  text-align: center;
+  background-color: black;
+  display: block;
+  margin-top: 150px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.footer-content p {
+  font-size: 15px;
+}
+
+.Flower {
+  color: #e55473;
+}
+.Shop {
+  color: #ffffff;
+}
